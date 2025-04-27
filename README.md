@@ -15,16 +15,19 @@
     <li>2 or more day Visit-$35</li>
   </ul>
   </div>
+ <div>
   <h2>About us</h2>
   <li>Logan- A 6th grade student who wants to be a robtic engineer when he becomes older. Working on finding jobs and collegs for the two of us.</li>
   <li>Owen- A 6th grade student who want to become a software engineer or a web developer when he becomes older. He is doing all of the coding for the website.</li>
   <h2>Photos</h2>
+  </div>
 
 
 
 
-
+     <div>
     <h2>infromation</h2>
     <li>608-716-1892</li>
     <li>608-604-2263</li>
     <strong> Mt.Horeb WI</strong>
+     </div>
