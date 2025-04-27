@@ -21,11 +21,7 @@
   <li>Owen- A 6th grade student who want to become a software engineer or a web developer when he becomes older. He is doing all of the coding for the website.</li>
   <h2>Photos</h2>
   </div>
-
-
-
-
-     <div>
+ <div>
     <h2>infromation</h2>
     <li>608-716-1892</li>
     <li>608-604-2263</li>
